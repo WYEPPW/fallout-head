@@ -48,12 +48,12 @@
 
 ### Оптимизация
 
-* [Boston FPS Fix](https://www.nexusmods.com/fallout4/mods/26286/?) - Оптимизация городской части Бостона для буста ФПС
+* [Fo4FI FPS fix](https://www.nexusmods.com/fallout4/mods/45360) - Оптимизация всех ячеек Содружества для буста ФПС
 * [ENBoost](http://enbdev.com/download_mod_fallout4.htm)- позволяет использовать фиксы производительности из ENB без самих графических фич
 
 > В enblocal.ini поставить ForceVideoMemorySize = true.
 
-* [FPS dynamic shadows - Shadow Boost](http://www.nexusmods.com/fallout4/mods/1822) - плагин динамического контроля за дальностью прорисовки теней для предотвращения просадок FPS
+* [FPS dynamic shadows - Shadow Boost](http://www.nexusmods.com/fallout4/mods/1822) - плагин динамического контроля за дальностью прорисовки теней для предотвращения просадок FPS. Заброшен автором и более не работает.
 * [Texture Optimization Project](http://www.nexusmods.com/fallout4/mods/978) - оптимизированные текстуры окружения для повышения FPS без ухудшения качества
 
 > Скачанные файлы текстур при установке "как есть" ЗАМЕДЛЯТ игру. И это слова разработчика мода из комментов на нексусе (вроде как ba2 грузится весь сразу, а вот отдельные файлы по очереди). Для ускорения фола нужно перепаковать ba2 файлы с заменой текстур на предоставленные. Тогда и прирост будет.
@@ -110,6 +110,7 @@
 * [1 day or instant vendors money reset](http://www.nexusmods.com/fallout4/mods/276) - сокращает время обновления ассортимента у торговцев с двух дней до одного или делает мгновенным - на выбор.
 * [Reduced Level-Up Speeds](http://www.nexusmods.com/fallout4/mods/2949) - замедляет прокачку персонажа. Настраиваемый
 * [Piles of Corpses](http://www.nexusmods.com/fallout4/mods/1770) - увеличивает лимит количества трупов
+* [Fallout Suite - Soundtrack Extension](https://www.nexusmods.com/fallout4/mods/15870) - качественное расширение игрового саундтрека 
 
 ### Крафт и строительство
 
